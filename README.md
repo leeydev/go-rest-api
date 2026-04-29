@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/go-rest-api)
+![Version](https://img.shields.io/github/package-json/v/leeydev/go-rest-api)
+
 # go-rest-api
 
 Professional Go project: go-rest-api
